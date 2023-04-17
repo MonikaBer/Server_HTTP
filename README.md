@@ -13,7 +13,7 @@ cd ..
 export GOPATH=$PROJEKT_DIR/libs:$PROJEKT_DIR
 ```
 
-## Execution Server
+## Server execution
 
 ```bash
 cd bin
@@ -21,7 +21,7 @@ go build main
 ./main
 ```
 
-## Execution Tests
+## Test execution
 
 ```bash
 cd src/main
