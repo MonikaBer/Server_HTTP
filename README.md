@@ -1,11 +1,9 @@
 # Server_HTTP
 Server HTTP in Go, REST API, CRUD
 
-## Instalation
+## Configuration
 
 ```bash
-git clone https://github.com/MonikaBer/base64-Monika-Berlinska-.git
-cd base64-Monika-Berlinska-
 PROJEKT_DIR=`pwd`
 mkdir bin
 mkdir libs
